@@ -1,0 +1,29 @@
+/* teacherList.css */
+
+.teacher-list {
+    margin-top: 20px;
+  }
+  
+  .teacher-list h2 {
+    color: #333;
+    font-size: 24px;
+  }
+  
+  .teacher-list ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .teacher-list li {
+    margin-bottom: 10px;
+  }
+  
+  .teacher-list li a {
+    color: #007bff;
+    text-decoration: none;
+  }
+  
+  .teacher-list li a:hover {
+    text-decoration: underline;
+  }
+  

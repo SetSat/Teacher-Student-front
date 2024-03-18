@@ -1,0 +1,32 @@
+/* assignTeacherToStudent.css */
+
+.assignment-container {
+  margin-top: 20px;
+}
+
+.assignment-container h2 {
+  color: #333;
+  font-size: 24px;
+}
+
+.assignment-container label {
+  display: block;
+  margin-bottom: 5px;
+}
+
+.assignment-container select,
+.assignment-container button {
+  margin-top: 5px;
+  padding: 8px;
+}
+
+.assignment-container button {
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  cursor: pointer;
+}
+
+.assignment-container button:hover {
+  background-color: #0056b3;
+}
